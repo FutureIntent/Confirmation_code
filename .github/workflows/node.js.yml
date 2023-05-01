@@ -1,0 +1,28 @@
+name: Node.js CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Build & Run
+      uses: appleboy/ssh-action@master 
+      with:
+        host: ${{ secrets.HOST }}
+        username: ${{ secrets.USERNAME }}
+        key: ${{ secrets.SECRET_KEY }}
+        port: ${{ secrets.PORT }}
+        script: |
+          cd ${{ secrets.MASTER_PATH }}
+          git pull
+          pm2 stop all
+          yarn
+          yarn build
+          pm2 start all

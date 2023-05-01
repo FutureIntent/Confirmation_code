@@ -1,0 +1,65 @@
+{
+  "downloadSurfinite": "下载 Surfinite",
+  "caption": "管理多个广告柜、社交媒体账户。 与博彩公司和加密货币交易所合作。",
+  "alsoAvailable": "也提供",
+  "youAccept": "通过下载 Surfinite，您接受 ",
+  "termsOfUse": "使用条款",
+  "userAgreement": "用户协议",
+  "privacyPolicy": "隐私政策",
+  "download": "下载",
+  "whatsNew": "什么是新的",
+  "viewAllUpdates": "查看所有 Surfinite 更新",
+  "thankYou": "感谢您选择 Surfinite ",
+  "autoDownload": "下载将自动开始...",
+  "ifDownloadDidntStart": "如果下载尚未开始",
+  "tryAgain": "再试一次",
+  "steps": {
+    "apple": {
+      "step1": {
+        "title" : "下载并解压缩 zip 文件。",
+        "text": "为了正确操作，我们建议将 Surfinite 应用程序放在应用程序中。"
+      },
+      "step2": {
+        "title" : "打开文件",
+        "important": "一定！",
+        "rightTap": " 使用右键单击/控制 ⌃ + 单击",
+        "text": "打开文件。 否则它不会双击运行."
+      },
+      "step3": {
+        "title": "确认启动",
+          "text": "在验证窗口中单击“打开”。 否则，应用程序将无法启动。."
+      }
+    },
+    "windows": {
+      "step1": {
+        "title" : "下载文件",
+        "text": "等待下载完成（您可能需要在出现的窗口中单击“保存”）。"
+      },
+      "step2": {
+        "title" : "解压文件夹到想要的位置",
+        "text": "我们建议使用免费的 7-Zip 存档器，但您可以使用您喜欢的任何其他存档器。"
+      },
+      "step3": {
+        "title": "以管理员身份运行",
+        "text": "如果您看到“Windows 保护您的计算机”窗口，只需单击“更多详细信息”和“仍然运行”。"
+      }
+    },
+    "linux": {
+      "step1": {
+        "title" : "下载文件",
+        "text": "等待下载完成（您可能需要在出现的窗口中单击“保存”）。"
+      },
+      "step2": {
+        "title" : "解压文件夹到想要的位置",
+        "text": "您可以使用您喜欢的任何其他存档器。"
+      },
+      "step3": {
+        "title": "启动应用程序",
+        "text": "享受使用 Surfinite！"
+      }
+    }
+  },
+  "enjoy": "享受我们的产品！",
+  "beforeYouStart": "在开始之前，您可能有兴趣了解：",
+  "docs": "文档 Surfinite"
+}

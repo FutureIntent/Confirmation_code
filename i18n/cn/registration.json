@@ -1,0 +1,10 @@
+{
+  "resendCode": "再次发送代码",
+  "enterCodeForEmail": "输入信件中的代码",
+  "weSentConfirmation": "我们已将验证码发送至",
+  "pleaseCheckEmail": "请检查您的电子邮件并输入下面的代码",
+  "tooManyTries": "您输入错误代码的次数过多。 请稍后再试",
+  "registrationSuccess": "注册成功！",
+  "proceedToYourInbox": "请转到您的邮箱并确认您的电子邮件。",
+  "downloadApp": "下载应用程序:"
+}

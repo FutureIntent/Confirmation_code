@@ -1,0 +1,65 @@
+{
+  "downloadSurfinite": "Download Surfinite",
+  "caption": "Control multiple accounts in search engines, advertising cabinets and social networks at the same time.",
+  "alsoAvailable": "Also available",
+  "youAccept": "By downloading Surfinite, you accept ",
+  "termsOfUse": "Terms of Use",
+  "userAgreement": "User Agreement",
+  "privacyPolicy": "Privacy Policy.",
+  "download": "Download",
+  "whatsNew": "What`s new",
+  "viewAllUpdates": "View all Surfinite updates",
+  "thankYou": "Thanks for choosing Surfinite for ",
+  "autoDownload": "The download will start automatically...",
+  "ifDownloadDidntStart": "If the download does not start",
+  "tryAgain": "try again",
+  "steps": {
+    "apple": {
+      "step1": {
+        "title" : "Download and unarchive zip-file.",
+        "text": "In order to work properly we recommend placing Surfinite App in Applications."
+      },
+      "step2": {
+        "title" : "Open file",
+        "important": "Important!",
+        "rightTap": " Use Right Tap / Control ⌃ + Click",
+        "text": "to open the file. Otherwise it won't run with double-tap."
+      },
+      "step3": {
+        "title": "Confirm Launch",
+          "text": "Press ”Open” in Verification window. Otherwise, app won't work."
+      }
+    },
+    "windows": {
+      "step1": {
+        "title" : "Download browser",
+        "text": "Wait for the download to complete (you may need to click “Save” in a window that pops up)."
+      },
+      "step2": {
+        "title" : "Unarchive folder into desired location",
+        "text": "We recommend using free 7-Zip arhiver but you can use any other archiver you like."
+      },
+      "step3": {
+        "title": "Run as Administrator.",
+        "text": "If you have “Windows protected your PC” window – just tap “more Info” and “Run anyway”."
+      }
+    },
+    "linux": {
+      "step1": {
+        "title" : "Download browser",
+        "text": "Wait for the download to complete (you may need to click “Save” in a window that pops up)."
+      },
+      "step2": {
+        "title" : "Unarchive folder into desired location",
+        "text": "You can use any other archiver you like."
+      },
+      "step3": {
+        "title": "Launch the App",
+        "text": "Enjoy your Surfinite Experience !"
+      }
+    }
+  },
+  "enjoy": "Enjoy Our Product!",
+  "beforeYouStart": "Before you start, you might find it interesting to learn:",
+  "docs": "Surfinite Documentation"
+}

@@ -1,0 +1,219 @@
+{
+  "shared": {
+    "register": "Sign up",
+    "download": "Download",
+    "demo": "demo",
+    "getStarted": "Get started",
+    "freeBetaBtn": "Free access to Beta",
+    "getFreeBeta": "Get free access",
+    "writeUs": "Write to us",
+    "checkFinger": "Check fingerprint",
+    "contactUs": "Contact us",
+    "up": "Up",
+    "copy": "Work in the Surfinite browser without the threat of blocking. Control many accounts in search engines, advertising cabinets and social networks simultaneously",
+    "betaNotice": "Sign up for a free full-featured beta before",
+    "registrationNumber": "Registration number"
+  },
+  "nav": {
+    "howTo": "WORKING WITH SURFINITE",
+    "earnWithoutBarriers": "EARNINGS",
+    "hideFingerprints": "ANONYMITY",
+    "ourPros": "BENEFITS",
+    "faq": "FAQ",
+    "reviews": "REVIEWS"
+  },
+  "homeBanner": {
+    "heading": "Work in Surfinite browser without the threat of blocking",
+    "subTitle": "Control multiple accounts in search engines, advertising cabinets and social networks at the same time",
+    "button": "Gain an access",
+    "anon": "100% anonymity and interlock bypass",
+    "twoClicks": "Change fingerprint in 2 clicks",
+    "wideSettings": "Extensive profile settings",
+    "roles": "Distribution of roles and rights for teams"
+  },
+  "howTo": {
+    "heading": "Surfinite is safe for work",
+    "subTitle": "Surfinite is a platform for the hidden formation of hundreds of accounts. Your IP address and browser fingerprint are set for each profile individually. Risk of bans and restrictions is reduced to zero",
+    "step1": "Download the installation file",
+    "step2": "Install on your device",
+    "step3": "Set up browser fingerprints",
+    "step4": "Use multiple accounts simultaneously!",
+    "cta": {
+      "line1": "Many accounts simulate network access from different computers",
+      "line2": "And you get complete anonymity with a guarantee of confidentiality to log in to any site"
+    }
+  },
+  "earnWithoutBarriers": {
+    "heading": "Earn online without barriers",
+    "subTitle": "Surfinite is an all-in-one tool that makes your job easier and increases your income. Forget about account locks and restrictions for earnings. Use the browser in different spheres!",
+    "subTitle2": "Individual digital prints isolate profiles from each other and allow you to work freely on the network.",
+    "cards": {
+      "card1": {
+        "title": "Affinity marketing",
+        "subTitle": "Use of different browser profiles, automation of data collection, management tools and development algorithms"
+      },
+      "card2": {
+        "title": "Sports betting",
+        "subTitle": "Creating an incognito profile and multi-accounts for hiding from bookmakers."
+      },
+      "card3": {
+        "title": "E-sales",
+        "subtitle": ""
+      },
+      "card4": {
+        "title": "Airdrop & bounty",
+        "subTitle": ""
+      },
+      "card5": {
+        "title": "Promotion in social networks",
+        "subtitle": ""
+      },
+      "card6": {
+        "title": "Web parsing",
+        "subtitle": ""
+      }
+    }
+  },
+  "hideFingerprint": {
+    "heading": "Hide your fingerprint",
+    "subTitle": "Fingerprint is information collected about a remote device for further identification, fingerprinting is the collection of this information. Fingerprints can be used in whole or in part for identification purposes even when cookies are disabled.",
+    "subTitle2": "A hidden fingerprint occurs as a hidden request to a client machine. These methods are based on a precise classification of client parameters such as TCP/IP configuration, OS fingerprint, IEEE 802.11 (WiFi) settings, and time offset.",
+    "spec1": "Platform",
+    "spec2": "Screen resolution",
+    "spec3": "Installed Fonts",
+    "spec4": "Time zone",
+    "spec5": "CPU type",
+    "spec6": "Pixel Ratio",
+    "spec7": "Color Depth",
+    "spec8": "Information about Adblock",
+    "spec9": "Installed plugins"
+  },
+  "beforeAndAfter": {
+    "heading": "Before and After: Surfinite Convenience",
+    "subTitle": "With Surfinite, you automatically collect cookies in your browser profile, store logins and passwords for websites, install browser extensions without restrictions.",
+    "before": "Before",
+    "beforeText": "You had to enter many emails to create accounts, accounts got banned, you registered again and again, worked on several computers at once - it was inconvenient, the workflow was slow",
+    "after": "After",
+    "afterText": "With just a few clicks, you can create hundreds of accounts on one computer, work safely and calmly. Surfinite hides your data. You automate business processes without risks and hassles",
+    "cta": {
+      "heading": "Configure the browser for yourself",
+      "subTitle": "Perform KPIs with minimal effort"
+    }
+  },
+  "virtualAccounts": {
+    "heading": "Use Virtual Accounts for 200+ Services!",
+    "subTitle": "our actions in any services will remain unnoticed. Now you manage accounts without restrictions and data tracking platforms. Surfinite allows you to work with a whole list of services:",
+    "card1": {
+      "title": "Ad Networks",
+      "text": "Arbitration and farming accounts for advertising and traffic collection"
+    },
+    "card2": {
+      "title": "Bookmakers",
+      "text": "Surfinite will help wherever more than 1 account is required."
+    },
+    "card3": {
+      "title": "Marketplaces",
+      "text": "Registration and maintenance of 10-20 or more accounts with ads in any cities and headings."
+    },
+    "card4": {
+      "title": "Cheating, online games, survey services",
+      "text": "Any number of profiles"
+    }
+  },
+  "ourPros": {
+    "heading": "6 Benefits of Surfinite",
+    "subTitle": "Your actions in any services will remain unnoticed. Now you manage accounts without restrictions and data tracking platforms. Surfinite allows you to work with a whole list of services:",
+    "card1": {
+      "title": "Bypass checks",
+      "subTitle": "Each profile has unique IP, User Agent, Language, TimeZone, Screen Size, Video Card and other parameters."
+    },
+    "card2": {
+      "title": "Teamwork",
+      "subTitle": "You easily work in a group and automate business processes. Control access to profiles, configure permissions for more comfortable synchronization."
+    },
+    "card3": {
+      "title": "Data Sync",
+      "subTitle": "Your cookies, tabs and all your browsing data remain in the profiles."
+    },
+    "card4": {
+      "title": "Checking ads",
+      "subTitle": "Manage targeting and place ads imitating users from different cities and countries, remove incorrect links."
+    },
+    "card5": {
+      "title": "Retail price comparison",
+      "subTitle": "Check the cost of goods through the eyes of all users, as the seller sets prices depending on the location of the buyers."
+    },
+    "card6": {
+      "title": "API and Automation",
+      "subTitle": "We've implemented APIs for developers, as well as automations for Selenium. Automate any repetitive tasks with our browser.",
+      "apiDocs": "Api docs"
+    }
+  },
+  "prices": {
+    "heading": "Rates",
+    "subscriptionType": "Subscription type:",
+    "yearly": "Yearly",
+    "monthly": "Monthly",
+    "month": "mon.",
+    "inMonth": "per month",
+    "discount": "Discount",
+    "mini": "Mini",
+    "starter": "Starter",
+    "advanced": "Advanced",
+    "ultimate": "Ultimate",
+    "profiles": "Profiles",
+    "users": "Users",
+    "api": "Api"
+  },
+  "betaBanner": {
+    "heading": "Sign up for a free beta before",
+    "subTitle": "For the trial period, we give everyone the opportunity to try out the beta version of the Surfinite anti-detection browser for free!"
+  },
+  "faq": {
+    "btn": "Ask your question",
+    "q1": "Is it possible to run several profiles at the same time and work on them?",
+    "a1": "Yes. The browser allows you to run multiple profiles at the same time.",
+    "q2": "What operating systems (OS) does your browser run on?",
+    "a2": "The browser works on all popular operating systems: Windows, Linux, macOS (including M1 processors)",
+    "q3": "Can I use the same account on 2 or more devices?",
+    "a3": "Multiple members can be added under the same account, and can also log in in different browsers.",
+    "q4": "What payment methods do you accept?",
+    "a4": "You can pay for a subscription using cryptocurrencies, bank cards, Paypal, Qiwi and other payment systems",
+    "q5": "What settings can be configured in the browser?",
+    "a5": "You can configure almost all available options.",
+    "q6": "What guarantees that the account will not be banned? How exactly do you change your digital fingerprint?",
+    "a6": "Nobody can give 100% guarantees, but we ourselves actively use our browser for different purposes and can confirm the highest degree of anonymity.",
+    "q7": "How often do you update your browser? Do you consider the wishes of users when updating?",
+    "a7": "The browser is constantly evolving. We thoroughly analyze all the wishes of customers. We immediately take the top ones into work."
+  },
+  "registration": {
+    "heading": "Sign-up",
+    "subTitle": "We will send a verification code to your Email",
+    "googleAuth": "Login with Google",
+    "googleTerms1": "By clicking “Log in with Google” you automatically confirm that you agree with our",
+    "googleTerms2": "Terms of Use",
+    "googleTerms3": "and",
+    "googleTerms4": "Privacy Policy",
+    "errorMsg": "Oops...Something went wrong",
+    "form": {
+      "email": {
+        "name": "Your e-mail",
+        "placeholder": "Enter your email"
+      },
+      "password": {
+        "name": "Password",
+        "placeholder": "Enter your password"
+      },
+      "confirmPassword": {
+        "name": "Confirm password",
+        "placeholder": "Passwords must match"
+      },
+      "terms": {
+        "part1": "I agree",
+        "part2": "Terms of Use",
+        "part3": "Surfinite, as well as",
+        "part4": "with the Privacy Policy"
+      }
+    }
+  }
+}

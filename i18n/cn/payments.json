@@ -1,0 +1,11 @@
+{
+  "successPayment": "支付成功",
+  "weAreHonored": "感謝您選擇 Surfinite！",
+  "allSet": "可以了，好了。 您可以返回應用程序享受您的訂閱:)",
+  "canceledPayment": "付款已取消",
+  "unfortunately": "您可以隨時下新訂單",
+  "checkYourCard": "當你準備好時，我們會等你！",
+  "failedPayment": "支付失敗",
+  "notCompleted": "很遺憾，無法完成付款",
+  "checkCard": "檢查您的卡信息，然後重試"
+}

@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Surfinite';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://surfinite.com/static/Surfinite-Regular-b06a422821d88ec74ad255c4bc7b0db1.woff2) format('woff');
+}
+
+@font-face {
+    font-family: 'Surfinite';
+    font-style: normal;
+    font-weight: 700;
+    src: url(https://surfinite.com/static/Surfinite-Bold-90d2067790752d564f2b5bf7c5d05b0c.woff2) format('woff');
+}

@@ -1,0 +1,11 @@
+{
+  "successPayment": "Payment succeeded",
+  "weAreHonored": "Thank you for choosing Surfinite!",
+  "allSet": "All set. You can return to the app to enjoy your subscription :)",
+  "canceledPayment": "Payment canceled",
+  "unfortunately": "You can make a new order anytime you want",
+  "checkYourCard": "We will be waiting for you when you are ready!",
+  "failedPayment": "Payment failed",
+  "notCompleted": "Unfortunately, payment cannot be completed",
+  "checkCard": "Check your card info and try again"
+}

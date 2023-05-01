@@ -1,0 +1,10 @@
+{
+  "resendCode": "Resend code",
+  "enterCodeForEmail": "Enter code from e-mail",
+  "weSentConfirmation": "We have sent a confirmation code to",
+  "pleaseCheckEmail": "Please, check your mailbox and enter the code below",
+  "tooManyTries": "You have entered an incorrect code too many times. Please, try later",
+  "registrationSuccess": "Registration was successful!",
+  "proceedToYourInbox": "Please go to your mailbox and confirm your email.",
+  "downloadApp": "Download app:"
+}

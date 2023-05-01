@@ -1,0 +1,221 @@
+{
+  "shared": {
+    "register": "登记",
+    "download": "下载",
+    "demo": "演示",
+    "getStarted": "开始",
+    "freeBetaBtn": "免费使用测试版",
+    "getFreeBeta" : "登记",
+    "writeUs": "写信给我们",
+    "checkFinger": "查验指纹",
+    "contactUs": "联系我们",
+    "up": "上",
+    "copy": "在Surfinite浏览器中工作，没有被封禁的风险。.同时控制搜索引擎、广告用户中心和社交网络中的多个账户",
+    "betaNotice": "在__(日期)之前，注册获得免费的全功能测试版本",
+    "registrationNumber": "Registration number"
+  },
+  "nav": {
+    "howTo": "与SURFINITE工作",
+    "earnWithoutBarriers": "挣钱",
+    "hideFingerprints": "匿名者",
+    "ourPros": "优点",
+    "prices": "费用",
+    "faq": "常见问题",
+    "reviews": "评论"
+  },
+  "homeBanner": {
+    "heading" : "在 Surfinite 反检测浏览器中工作，没有被阻止的威胁",
+    "subTitle" : "管理多个广告柜、社交媒体账户、投注店和加密货币交易所。",
+    "button" : "创建一个帐户",
+    "anon": "100%的匿名性和绕过阻止",
+    "twoClicks": "两次点击就能改变指纹",
+    "wideSettings": "广泛的配置文件设置",
+    "roles": "向团队分配角色和权利"
+  },
+  "howTo": {
+    "heading": "Surfinite对工作是安全的",
+    "subTitle" : "Surfinite 是一种反检测浏览器，可同时处理多个帐户。 每个配置文件都有自己的指纹，这将禁止和限制的风险降低到零。",
+    "step1" : "注册并下载客户端",
+    "step2": "在你的设备上安装",
+    "step3" : "创建浏览器配置文件",
+    "step4" : "忘记阻止帐户",
+    "cta": {
+      "line1": "您的所有配置文件都彼此隔离存储，并模拟不同设备的使用。",
+      "line2": "而且你可以得到完全的匿名性，保证你的隐私可以访问任何网站。"
+    }
+  },
+  "earnWithoutBarriers": {
+    "heading": "网上挣钱无障碍",
+    "subTitle": "Surfinite是一个多功能的工具，使你的工作更容易，增加你的收入。忘记账户封锁和收入限制。在不同的活动领域使用这个浏览器!",
+    "subTitle2": "单独的数字指纹将配置文件相互隔离，允许自由联网。。",
+    "cards": {
+      "card1": {
+        "title": "流量仲裁",
+        "subTitle": "使用不同的浏览器配置文件、数据收集自动化、管理工具和开发算法。"
+      },
+      "card2": {
+        "title": "体育博彩",
+        "subTitle": "创建隐姓埋名的个人资料和多账户，以躲避博彩公司。"
+      },
+      "card3": {
+        "title": "电子商务",
+        "subTitle": ""
+      },
+      "card4": {
+        "title": "空投和赏金狩猎",
+        "subTitle": ""
+      },
+      "card5": {
+        "title": "社交网络推广",
+        "subTitle": ""
+      },
+      "card6": {
+        "title": "网站数据采集",
+        "subTitle": ""
+      }
+    }
+  },
+  "hideFingerprint": {
+    "heading": "隐藏你的指纹",
+    "subTitle": "指纹是收集关于远程设备的信息以进一步识别，搜集指纹就是 收集这些信息。指纹可以全部或部分用于识别，即使在关闭cookies的情况下也是如此。",
+    "subTitle2": "隐瞒指纹是通过对客户端计算机的潜型请求进行的这些方法依赖于对客户端参数的准确分类，如TCP/IP配置、操作系统数字指纹、IEEE 802.11（WiFi）设置和时间偏移 ",
+    "spec1": "操作系统",
+    "spec2": "CPU, GPU, RAM",
+    "spec3": "屏幕分辨率",
+    "spec4": "安装的字体",
+    "spec5": "地理、语言、WebRTC",
+    "spec6": "Canvas image",
+    "spec7": "WebGL image",
+    "spec8": "Audio context",
+    "spec9": "电池和媒体设备"
+  },
+  "beforeAndAfter": {
+    "heading": "之前和之后的",
+    "subTitle": "使用 Surfinite，您可以从一台设备访问多个帐户。 所有信息（cookies、扩展程序、保存的密码等）都会自动保存并为每个配置文件单独存储。",
+    "before": "之前",
+    "beforeText": "您必须使用不符合您需求的不同设备或产品，这导致了禁令、资金损失，最重要的是 - 时间。",
+    "after": "之后",
+    "afterText": "只需点击几下，您就可以在一台计算机上创建数百个配置文件，安全从容地工作。 Surfinite 隐藏您的数据。 您可以在没有风险或麻烦的情况下自动化业务流程。",
+    "cta": {
+      "heading": "根据自己的需要定制浏览器",
+      "subTitle": "以最少的劳动强度实现关键绩效指标."
+    }
+  },
+  "virtualAccounts": {
+    "heading": "使用虚拟账号，你可以用于200多种服务!",
+    "subTitle": "你在任何服务中的行动都会被忽视。现在你管理你的账户，没有平台的限制和数据跟踪。Surfinite允许你与一些服务机构合作",
+    "card1": {
+      "title": "广告网络",
+      "text": "广告和流量收集的套利和刷钱账号户。"
+    },
+    "card2": {
+      "title": "博彩公司",
+      "text": "在需要1个以上账户的情况下，Surfinite将提供帮助。"
+    },
+    "card3": {
+      "title": "市场平台",
+      "text": "注册并维护10-20个或更多的账户，并在任何城市和类别中投放广告."
+    },
+    "card4": {
+      "title": "扩大访问者的数量，网络游戏，投票服务",
+      "text": "你想要多少账号就有多少账号。."
+    }
+  },
+  "ourPros": {
+    "heading": "优势 6 种优势",
+    "subTitle": "您在任何服务中的行为都不会被注意到。 现在，您可以不受限制地管理帐户并通过平台进行数据跟踪。",
+    "card1": {
+      "title": "绕过检查",
+      "subTitle": "每个配置文件都有自己的指纹。 Surfinite 成功通过了 pixelscan、amiunique、creejs 等。"
+    },
+    "card2": {
+      "title": "协同工作",
+      "subTitle": "你很容易在小组中工作，并使业务流程自动化。控制对配置文件的访问，调整权限以实现更舒适的同步"
+    },
+    "card3": {
+      "title": "数据同步",
+      "subTitle": "所有配置文件数据都同步到云端，您可以从任何设备访问它。"
+    },
+    "card4": {
+      "title": "团体",
+      "subTitle": "为了方便组织配置文件存储，我们实现了嵌套组。 现在，您可以将配置文件分配到组中，并将访问权限授予个人用户"
+    },
+    "card5": {
+      "title": "类别",
+      "subTitle": "您可以创建配置文件类别、为其添加扩展名和书签，而无需花费时间单独设置每个配置文件。"
+    },
+    "card6": {
+      "title": "API 和自动化",
+      "subTitle": "我们为开发人员实现了一个 API，并为 Selenium 实现了自动化。 使用我们的浏览器自动执行任何重复性任务。",
+      "apiDocs": "API 文档"
+    }
+  },
+  "prices": {
+    "free": "Free",
+    "heading": "费用",
+    "subscriptionType": "订阅类型：",
+    "yearly": "年度",
+    "monthly": "月度",
+    "month": "个月",
+    "inMonth": "每月",
+    "discount": "折扣",
+    "mini": "Mini",
+    "starter": "初起的",
+    "advanced": "高级",
+    "ultimate": "最高级",
+    "profiles": "账号",
+    "users": "用户",
+    "api": "Api"
+  },
+  "betaBanner": {
+    "heading": "订阅免费时快点！",
+    "subTitle": "在试用期间，我们为大家提供免费试用 Surfinite 反检测浏览器测试版的机会！"
+  },
+  "faq": {
+    "btn": "提出您的问题",
+    "q1": "是否可以同时运行几个配置账户并对其进行处理？",
+    "a1": "可以。该浏览器允许你同时运行多个账户。",
+    "q2": "你的浏览器是在什么操作系统上运行的？",
+    "a2": "浏览器可在所有流行的操作系统上运行",
+    "q3": "我是否可以在2个或多个设备上使用同一个账户？",
+    "a3": "同一账户下可以添加多个成员，也可以用不同的浏览器登录。",
+    "q4": "你们接受什么付款方式？",
+    "a4": "你可以使用加密货币、银行卡、Paypal、Qiwi和其他支付系统为你的订阅付款",
+    "q5": "我可以在浏览器中配置哪些设置？",
+    "a5": "你可以调整几乎所有可用的设置。",
+    "q6": "有什么保证账户不会被禁？你究竟如何改变数字指纹？",
+    "a6": "没有人能够给出100%的保证，但我们自己积极地将我们的浏览器用于各种目的，可以确认最高程度的匿名性。",
+    "q7": "你多久更新一次你的浏览器?你们在更新时是否考虑到了用户的愿望？",
+    "a7": "浏览器是不断发展的。我们仔细分析了客户的所有愿望。我们立即开始工作，以满足最主要的客户要求。"
+  },
+  "registration": {
+    "heading": "登记",
+    "subTitle": "我们将向您的电子邮件发送一个确认代码。",
+    "googleAuth": "用 Google账户授权",
+    "googleTerms1": "通过点击'用 Google账户授权'，你自动确认你同意我们的",
+    "googleTerms2": "使用条款",
+    "googleTerms3": "以及",
+    "googleTerms4": "隐私政策",
+    "errorMsg": "哎呀......出错了",
+    "form": {
+      "email": {
+        "name": "你的电子邮件",
+        "placeholder" : "输入你的电子邮箱"
+      },
+      "password": {
+        "name": "密码",
+        "placeholder" : "输入密码"
+      },
+      "confirmPassword": {
+        "name": "再次输入你的密码",
+        "placeholder": "密码必须相符"
+      },
+      "terms": {
+        "part1": "我同意",
+        "part2": "使用条款",
+        "part3": "Surfinite, 以及",
+        "part4": "隐私政策"
+      }
+    }
+  }
+}

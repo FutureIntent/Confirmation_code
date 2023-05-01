@@ -1,0 +1,18 @@
+{
+  "ru": {
+    "test": "teastetqweteqetqet",
+    "translation": {
+      "siteMetadata": {
+        "title": "Translation Example"
+      }
+    }
+  },
+  "el": {
+    "translation": {
+      "test": "teastetqweteqetqet",
+      "siteMetadata": {
+        "title": "Παράδειγμα Μετάφρασης"
+      }
+    }
+  }
+}
